@@ -1,7 +1,12 @@
-
 .main {
     text-align: center;
 }
+
+* {
+    box-sizing: border-box;
+}
+
+
 .item-1,
 .item-2,
 .item-3,
