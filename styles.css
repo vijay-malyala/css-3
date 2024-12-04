@@ -11,6 +11,7 @@
 .item-2,
 .item-3,
 .item-4 {
+    border: 10px solid black;
     height: 650px;
     width: 300px;
     margin: 10px;
