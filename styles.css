@@ -1,0 +1,29 @@
+
+.main {
+    text-align: center;
+}
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+    height: 650px;
+    width: 300px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img {
+    width: 100%;
+    vertical-align: top;
+}
+
+h1 {
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+
+p {
+    text-align: center;
+}
